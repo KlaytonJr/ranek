@@ -5,7 +5,7 @@ import axios from "axios";
 // });
 
 const axiosInstance = axios.create({
-    baseURL: "https://my-json-server.typicode.com/KlaytonJr/ranek-api"
+    baseURL: "https://my-json-server.typicode.com/KlaytonJr/ranek-api/db"
 });
 
 export const api = {
