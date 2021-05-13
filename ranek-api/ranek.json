@@ -43,6 +43,50 @@
         "estado": "PB"
       },
       "id": 2
+    },
+    {
+      "comprador_id": "klaytonjunior@protonmail.com",
+      "vendedor_id": "andre@origamid.com",
+      "produto": {
+        "id": "notebook",
+        "nome": "Notebook",
+        "usuario_id": "andre@origamid.com",
+        "preco": "4999",
+        "vendido": "false",
+        "descricao": "Esse é um novo notebook.",
+        "fotos": null
+      },
+      "endereco": {
+        "cep": "58401276",
+        "rua": "Rua Raimundo Alves da Silva",
+        "numero": "228",
+        "bairro": "Conceição",
+        "cidade": "Campina Grande",
+        "estado": "PB"
+      },
+      "id": 3
+    },
+    {
+      "comprador_id": "klaytonjunior@protonmail.com",
+      "vendedor_id": "andre@origamid.com",
+      "produto": {
+        "id": "tablet",
+        "nome": "Tablet",
+        "usuario_id": "andre@origamid.com",
+        "preco": "1399",
+        "vendido": "false",
+        "descricao": "Esse é um novo tablet.",
+        "fotos": null
+      },
+      "endereco": {
+        "cep": "58401276",
+        "rua": "Rua Raimundo Alves da Silva",
+        "numero": "228",
+        "bairro": "Conceição",
+        "cidade": "Campina Grande",
+        "estado": "PB"
+      },
+      "id": 4
     }
   ],
   "usuario": [
